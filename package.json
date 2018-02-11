@@ -1,0 +1,16 @@
+{
+  "name": "react-healthy-model",
+  "version": "0.0.1",
+  "description": "Keep track of your form models in a React friendly way",
+  "main": "dist/index.js",
+  "repository": "https://github.com/colelawrence/react-healthy-model",
+  "author": "Cole Lawrence @colelawrence",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}
